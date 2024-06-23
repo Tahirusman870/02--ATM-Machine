@@ -1,0 +1,21 @@
+{
+  "name": "tahir--atm",
+  "version": "1.0.2",
+  "description": "this is atm machine software",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "tahir--atm": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahir Usman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
